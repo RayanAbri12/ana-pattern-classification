@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Abri
+    given-names: Rayan
+    name-particle: Dr.
+    orcid: ""
+title: "Automated ANA Pattern Classification using Deep Learning Ensemble Models"
+version: 1.0.0
+date-released: 2026-01-27
+url: "https://github.com/RayanAbri12/ana-pattern-classification"
+repository-code: "https://github.com/RayanAbri12/ana-pattern-classification"
+keywords:
+  - deep learning
+  - medical imaging
+  - antinuclear antibodies
+  - immunofluorescence
+  - multi-label classification
+  - computer vision
+  - pattern recognition
+  - ensemble learning
+license: MIT
+abstract: |
+  Automated classification of Antinuclear Antibody (ANA) patterns from 
+  immunofluorescence microscopy images using deep learning ensemble models. 
+  This work presents a multi-label classification approach using ResNet50 and 
+  EfficientNet-B0 trained on mixed single-label and multi-pattern datasets, 
+  achieving 82.25% exact match accuracy on validation data from hospital dataset with 32 ANA pattern 
+  classes (AC-0 to AC-31).
