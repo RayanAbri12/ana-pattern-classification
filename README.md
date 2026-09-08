@@ -176,5 +176,5 @@ For questions or collaborations, please open an issue on GitHub.
 ## Links
 
 - **Deployment**: [HuggingFace Spaces](https://huggingface.co/spaces/Rayan1201/ana-pattern-classifier)
-- **Paper**: (Coming soon)
+- **Paper**: https://link.springer.com/article/10.1007/s12026-026-09841-8
 - **Dataset**: Contact author for access
